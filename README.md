@@ -20,10 +20,7 @@ This data project explores patterns in vehicle collisions across the city of Tor
 ---
 
 ## Project Structure
-|
-├── Toronto_Traffic_Project.ipynb # Main analysis notebook
-├── README.md # Project overview and instructions
-└── traffic_collisions.csv # Toronto Police Service collision data (external)
+<pre> ## Project Structure ``` Toronto_Traffic_Project/ ├── Toronto_Traffic_Project.ipynb # Main analysis notebook ├── README.md # Project overview and instructions └── traffic_collisions.csv # Toronto Police Service collision data (external) ``` </pre>
 
 ---
 
